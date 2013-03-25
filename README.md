@@ -1,4 +1,4 @@
-= Request for Proposals =
+# Request for Proposals #
 
 Just fork this repo, add a new file with the following format:
 
