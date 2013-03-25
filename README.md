@@ -1,4 +1,8 @@
-# Request for Proposals #
+# Wicked Good Ruby #
+
+### Boston, MA Oct 12 - 13, 2013 ###
+
+## Request for Proposals ##
 
 Just fork this repo, add a new file with the following format:
 
