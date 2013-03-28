@@ -10,7 +10,7 @@ Just fork this repo, add a new file with the following format:
 
 And send a pull request!
 
-Please see the [example](your-name.your-talk.md)
+Please see the [example](your-name.your-talk.md) (be sure to **copy** the example and not **rename** it)
 
 Topics we are interested in:
 
