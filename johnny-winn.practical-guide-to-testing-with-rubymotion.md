@@ -1,4 +1,4 @@
-# Practical Guide to Testing with RubyMotion #
+# Practical Guide to Testing for RubyMotion #
 
 ## by Johnny Winn ##
 
