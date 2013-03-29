@@ -1,5 +1,6 @@
-** Merging of Pull Requests is not a sign of acceptance! **
-** We be contact you offlist if/when you are accepted **
+**Merging of Pull Requests is not a sign of acceptance!**
+
+**We be contact you offlist if/when you are accepted**
 
 # Wicked Good Ruby #
 
