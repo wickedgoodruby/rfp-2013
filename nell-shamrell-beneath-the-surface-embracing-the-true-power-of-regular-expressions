@@ -13,7 +13,6 @@ http://www.confreaks.com/videos/1093-madisonruby2012-behind-the-curtain-applying
 
 I also spoke on Regular Expressions in Ruby at Seattle.rb, where my presentation, while diving into some technical depths of intermediate regular expressions, also focused on helping people overcome their intimidation of regular expressions.  Slides are available here http://www.slideshare.net/NellShamrell/seattle-rb-regexfinal (NOTE: The talk I'm submitting to Wicked City Ruby will be a different talk, much more advanced and diving into how Ruby and Oniguruma (soon to be Onigmo) handle regular expressions beneath the surface).
 
-
 Most recently, I spoke at Ancient City Ruby Conf, presenting "Test Driven Development: A Love Story," which received rave reviews on Twitter.  Slides are available here http://www.slideshare.net/NellShamrell/tdd-a-love-storyfinal.
 Anything in addition to the abstract the choosing committee should take into consideration.
 
