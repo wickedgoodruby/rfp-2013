@@ -16,6 +16,6 @@ Most recently, I spoke at Ancient City Ruby Conf, presenting "Test Driven Develo
 
 ## Social ##
 
-* [http://www.nellshamrell.com](nellshamrell.com)
-* [http://twitter.com/nellshamrell](@nellshamrell)
-* [https://github.com/nellshamrell](GitHub)
+* [nellshamrell.com](http://www.nellshamrell.com)
+* [@nellshamrell](http://www.twitter.com/nellshamrell)
+* [Github](http://github.com/nellshamrell)
