@@ -1,7 +1,6 @@
-# Your Talk #
-Beneath the Surface: Embracing the True Power of Regular Expressions in Ruby
-## by Your Name ##
-Nell Shamrell
+#Beneath the Surface: Embracing the True Power of Regular Expressions in Ruby#
+## by Nell Shamrell ##
+
 ### Abstract ###
 
 Many of us approach regular expressions with a certain fear and trepidation, using them only when absolutely necessary.  We can get by when we need to use them, but we hesitate to dive any deeper into their cryptic world.  Ruby has so much more to offer us.  This talk showcases the incredible power of Ruby and the Oniguruma regex library Ruby runs on. It takes you on a journey beneath the surface, exploring the beauty, elegance, and power of regular expressions. You will discover the flexible, dynamic, and eloquent ways to harness this beauty and power in your own code.
