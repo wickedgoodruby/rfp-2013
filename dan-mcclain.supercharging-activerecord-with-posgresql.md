@@ -29,5 +29,5 @@ Arel support for PostgreSQL datatypes, and contributed commits to Rails
 ## Social ##
 
 * [http://danmcclain.net](http://danmcclain.net)
-* [http://twitter.com/_danmcclain](@_danmcclain)
-* [https://github.com/danmcclain](GitHub)
+* [@_danmcclain](http://twitter.com/_danmcclain)
+* [GitHub](https://github.com/danmcclain)
