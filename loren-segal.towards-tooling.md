@@ -1,4 +1,4 @@
-# Towards Tooling; A Look At What Is Missing From Our Toolbox
+# Towards Tooling; A Look at What is Missing From Our Toolbox
 
 ## by Loren Segal
 
@@ -36,6 +36,6 @@ symbolic execution frameworks from the Java and LLVM worlds).
 
 ## Social
 
-* [http://gnuu.org](My blog)
-* [http://twitter.com/lsegal](@lsegal on Twitter)
-* [https://github.com/lsegal](lsegal on GitHub)
+* [My blog](http://gnuu.org)
+* [@lsegal on Twitter](http://twitter.com/lsegal)
+* [lsegal on GitHub](https://github.com/lsegal)
