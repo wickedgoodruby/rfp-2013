@@ -10,7 +10,7 @@ But, this won't be a talk about how great remote working is. It's too cool to sa
 
 * Give actionable advice to teams without any remote developers to move towards adding a remote developer
 * Give teams that already have remote developers on their team ways to collaborate better
-* Give folks have no intention to add remote developers some ideas and tips to improve their communication internally
+* Provide ways to improve collaboration and communication within a standard "brick and mortar" team
 
 I'll be sharing ways that GitHub uses both its own software, third-party tools, and internal tools to support its over 160 employees. If we use something that's not publically available, I'll share some other tools and workflows that you could use. As one of GitHub's newest employees, I'm excited to share some of tips and tricks that I've learned after working remotely elsewhere for years.
 
@@ -23,7 +23,7 @@ Some high points I plan to cover:
 
 ### Additional Notes ###
 
-After working at both a few startups and as a consultant, I've recently taken a role at GitHub on their Business Tools team. I've worked remotely and semi-remotely for almost 6 years as a developer. I live in Connecticut and am passionate about getting developers who aren't in major metropolitans areas (and can't/don't want to move there) a way to work on awesome products.
+After working at bothstartups and as a consultant, I've recently taken a role at GitHub on their Business Tools team. I've worked remotely and semi-remotely for almost 6 years as a developer. I live in Connecticut and am passionate about getting developers who aren't in major metropolitans areas (and can't/don't want to move there) a way to work on awesome products.
 
 ## Social ##
 
