@@ -1,0 +1,22 @@
+# Tech Support For Developers #
+
+## by Chris Warren ##
+
+### Abstract ###
+
+When developers provide tech support everyone benefits - customers get their answers from an authority, developers understand what their customers need, and the product improves  continually.
+
+It's one thing to make a great product. It takes more to make using it awesome. When we create APIs and libraries for others, they're going to need help. So why should we care about making sure people have a good experience, and what can we do to minimize its impact on us so we can focus on coding?
+
+We'll look at how customer input improves products, how effective documentation reduces support requests, and how to build tools to automate support. As your customer base grows and usage increases, we'll discuss how to keep support volume from going up with it.
+
+### Additional Notes ###
+
+I've spent the last 3 years at Zencoder as the lead support engineer, where I worked on the full application stack, answered support emails, handled chat support, and worked on creating tools to help developers use our APIs.
+
+Since our acquisition by Brightcove last year I've trained their support team to handle Zencoder questions, worked on the product to give them easier access to the information they need to debug customer issues, and helped answer new questions they haven't seen before. I've also started a Developer Experience team to work with support, evangelism, sales, and integration engineering to identify developer sticking points and focus on improving the Zencoder experience.
+
+## Social ##
+
+* [http://twitter.com/cdwarren](@cdwarren)
+* [https://github.com/chriswarren](GitHub)
