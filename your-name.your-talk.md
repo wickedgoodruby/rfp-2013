@@ -12,6 +12,6 @@ Anything in addition to the abstract the choosing committee should take into con
 
 ## Social ##
 
-* [http://yourwebsite.com](yourwebsite)
-* [http://twitter.com/yourname](@yourname)
-* [https://github.com/yourname](GitHub)
+* [yourwebsite](http://yourwebsite.com)
+* [@yourname](http://twitter.com/yourname)
+* [GitHub](https://github.com/yourname)
