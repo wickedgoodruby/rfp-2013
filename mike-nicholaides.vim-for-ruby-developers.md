@@ -18,6 +18,13 @@ I gave this as a lightning talk for Philly.rb.
 
 This talk would work as a full-length talk or a lightning talk.
 
+Feedback I've gotten about the talk was that because it requires very little familiarity with Ruby and no familiarity with Vim, it is suitable to a wide range of developers:
+
+- those new to development in general
+- experienced developers new to Vim
+- experienced Vim users who haven't invested in learning the powerful aspects of Vim
+- experienced Vim users who haven't learned the parts that are great for Ruby development
+
 ## Social ##
 
 * [Personal Site](http://ablegray.com)
