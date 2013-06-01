@@ -12,10 +12,11 @@ This talk explores these aspects of Vim, focusing particularly on its powerful v
 
 I have been using Vim since it became popular in the Ruby community a few years ago. After a few failed attempts to switch from TextMate, I finally “got” it and I've been using it productively ever since.
 
-
 ### Additional Notes ###
 
 I gave this as a lightning talk for Philly.rb.
+
+This talk would work as a full-length talk or a lightning talk.
 
 ## Social ##
 

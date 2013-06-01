@@ -10,9 +10,11 @@ In this talk, I'll cover the basics of securing your Rails app, evaluating and m
 
 ### Additional Notes ###
 
+I have been a Rails consultant since 2006 and have performed Rails security audits for numerous financial institutions and other organizations with highly sensitive data.
+
 This talk has not been given elsewhere.
 
-I have been a Rails consultant since 2006 and have performed Rails security audits for numerous financial institutions and other organizations with highly sensitive data.
+This talk would work as a full-length talk or a lightning talk.
 
 ## Social ##
 
