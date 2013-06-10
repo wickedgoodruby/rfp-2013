@@ -11,7 +11,7 @@ At Paperless Post, I inherited responsibility for the front-end of a 4 year-old 
 
 ### Additional Notes ###
 
-And action-oriented talk describing tool sets that can replace Bootstrap with other technologies so that front-end developers aren't tied into one framework and subjected to its whims.
+And action-oriented talk to walk through consolidating technologies and implementing a sound style guide for a development team to use.
 
 ## Social ##
 
