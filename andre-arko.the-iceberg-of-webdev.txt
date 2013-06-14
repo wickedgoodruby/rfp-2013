@@ -1,0 +1,17 @@
+# The Iceberg of Webdev: Choices You Didn't Realize You Were Making #
+
+## by André Arko ##
+
+### Abstract ###
+
+If you do web developement, you've probably noticed that "distributed systems" and "service oriented architecture" are really hot topics right now. I have a surprise for you, though: you already work on a distributed system with a service oriented architecture, because every webapp is one. That means you've already decided how your distributed system is going to work, and chances are good you didn't even know you were making those decisions. This talk will uncover the hidden decisions that shape web applications, including how the org chart limits service architecture, and how consistency and availability by default seems great until it's 3am and the data store needs to be rebuilt by hand to bring the site back up. Once the decisions aren't hidden anymore, I'll explain some other options, and why you might want to pick them to save yourself pain in production.
+
+### Additional Notes ###
+
+This is a talk centered around the decisions that web developers make before they even realize that they've made them. On the one hand, developers talk about Conway's law, but none of them seem to acknowledge @jesseplusplus's first corollary: the way you structure your organization will determine structure of your software. That's a pretty big decision that you made there! But chances are good no one even realized it was being made. After developers have (inadvertantly) decided how their software will be structured, they (inadvertantly) decide how they are going to handle the CAP tradeoffs of distributed systems. But they do it in development, an artificial environment where they haven't even learned what those tradeoffs will mean for their application yet. Developers need to start thinking about these issues early, so they can recognize and avoid choices that will screw them months or years down the line. We need to learn from the mistakes and experiments that have already happened so we can choose the tradeoffs that will cause the least damage when the rest of the iceberg shows up.
+
+## Social ##
+
+* [http://arko.net](Arko.net)
+* [http://twitter.com/indirect](@indirect)
+* [https://github.com/indirect](GitHub)
