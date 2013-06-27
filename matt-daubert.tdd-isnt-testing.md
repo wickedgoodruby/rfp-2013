@@ -20,7 +20,7 @@ My goal for this talk is to leave you with examples and techniques for:
 - developing and refining user stories
 - determining when a user story is ready to become a feature
 - ensuring that domain knowledge developed in design is never lost
-- ensuring that developer productivity only increases with domain-driven development
+- ensuring that developer productivity only increases with behavior-driven development
 - writing clear and concise acceptance tests with measurable value and minimal brittleness
 
 The patterns and practices presented are largely language and framework-agnostic.
