@@ -1,0 +1,17 @@
+# Your Talk #
+
+## by André Arko ##
+
+### The Bundler You Don't Know ###
+
+Bundler has turned out to be a super-usful tool for installing and managing dependencies, but it has hidden depths. Here are some ways you can use Bundler's mostly known depths to boost your development productivity. Learn how to use Bundler on a high-latency connection, or with no connection at all. Review the lesser-known but very handy commands like `bundle gem` and `bundle open`. See how to guarantee your app's version of Ruby, how to search through the source of every gem in your Gemfile, and how to check for newer versions of the gems you use. Level up your development workflow so you can edit an app and a gem simultaneously, or use a gem that's not in your Gemfile. Explore the reasons `bundle exec` exists, and how you might get rid of it.
+
+### Additional Notes ###
+
+I am regularly surprised by how often developers' workflows can be significantly streamlined just by using some of the lesser-known features of tools they already have and work with every day. This is my attempt to prepare everyone so that they can blast through environment and library problems and get back to writing the code that they want to be writing.
+
+## Social ##
+
+* [http://arko.net](Arko.net)
+* [http://twitter.com/indirect](@indirect)
+* [https://github.com/indirect](GitHub)
