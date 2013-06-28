@@ -16,7 +16,7 @@ I'll be assuming some knowledge of git, but not much.
 
 ### Notes
 
-I've never given this talk before, but I think it'll be pretty cool. I studied git's source code extensively in class while pursuing my master's degree, and I think this exercise could be super valuable and enlightening. My main concerns would be that:
+I've never given this talk before, but I think it'll be pretty cool. I studied git's source code in graduate school and I think this exercise could be super valuable and enlightening. My main concerns would be that:
 
 * git is written in C, which people might not be familiar with. This won't be a problem -- we can talk more about what is going on and how the code is organized than diving into pointers or whatever.
 * A lot of git is organized around complicated merging algorithms, dealing with edge cases, etc. This shouldn't be a problem either. Again, we can look at organizational techniques instead of implementation details.
